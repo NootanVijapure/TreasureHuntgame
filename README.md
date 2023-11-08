@@ -16,7 +16,9 @@ Define the main method:
 Step 4: Declare and initialize data structures
 Inside the main method, declare and initialize the different data structures(Map,list,set)
 create map locations with <String, Location> as kep value pair 
+
 create list treasures which containes list of treasure
+
 create set inventory which contains list of treasure
 
 setp 5: Populate locations and treasures
