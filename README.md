@@ -22,7 +22,7 @@ Inside the main method, declare and initialize the different data structures(Map
 - create set inventory which contains list of treasure
 
 setp 5: Populate locations and treasures
-Populate the locations map and the treasures list with a few initial locations and treasures of your choice.
+Populate the locations map and the treasures list with a few initial locations and treasures of your choice.(eg locations.put("Beach", new Location("Beach", "You are on a beautiful beach with golden sands.")) treasures.add(new Treasure("Gold Coin", "A shiny gold coin", 10)))
 
 Step 6: Implement the game loop
 Create a while (true) loop to keep the game running until the player decides to quit.
